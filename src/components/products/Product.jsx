@@ -20,3 +20,4 @@ const Product = ({ name,type,price,manufacturer,expiryDate,image }) => {
 }
 
 export default Product
+
