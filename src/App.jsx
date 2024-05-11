@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div>
      <div className='h-full w-full' >
-       {/* style={{backgroundImage:`url(${bg})` ,backgroundPosition:'center',backgroundSize:'cover'}}> */}
+      {/* style={{backgroundImage:`url(${bg})` ,backgroundPosition:'center',backgroundSize:'cover'}}>  */}
       <BrowserRouter >
           <Navbar/>
       <Routes >
